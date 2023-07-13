@@ -7,7 +7,7 @@ shinyUI(
   fluidPage(
     br(),
     # TASK 1: Application title
-    titlePanel("Final Project: Data visualization with R - Group 3"),
+    titlePanel("Final Project: Data visualization with R - Group 3: Trần Xuân Thành"),
     p("Explore the difference between people who earn less than 50K and more than 50K. You can filter the data by country, then explore various demogrphic information."),
     
     # TASK 2: Add first fluidRow to select input for country
